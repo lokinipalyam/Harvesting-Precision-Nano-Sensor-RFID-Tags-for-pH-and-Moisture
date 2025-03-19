@@ -29,6 +29,23 @@ To address these challenges, our project proposes the development of an RFID-ena
 
 By incorporating this advanced sensor technology into agricultural practices, our solution aims to enhance crop growth, optimize resource management, and promote sustainable farming. Empowering farmers with reliable and real-time data, this technology has the potential to improve decision-making, boost agricultural productivity, and pave the way for a more resilient and sustainable future for Indian agriculture.
 
+## Objectives 
+  Enhance Worker Safety.
+ • Real-time Data Collection and Analysis.
+ • Automate Ventilation Systems.
+ • Improve Energy Efficiency.
+ • Minimizing Environmental and Operational Risks.
 
+ ## Goals 
+  #Main Goals
+ • Ensure Work Safety.
+ • Automate and Optimize Ventilation Systems.
+ • Enhance Operational Efficiency.
+ • Achieve Energy and Cost Efficiency.
+#Additional Goals 
+• Regulatory Compliance.
+ • Data-Driven Insights
+ • Remote Monitoring and Control.
+ • Scalability and Integration.
 
 
